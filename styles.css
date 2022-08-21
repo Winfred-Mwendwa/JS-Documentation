@@ -37,7 +37,7 @@ code {
     border-radius: 5px;  
 }
 
-
+@media only screen and (max-width: 815px) {
 #navbar {
     position: fixed;
     min-width: 290px;
@@ -49,10 +49,10 @@ code {
     border-color: rgba(0, 22, 22, 0.4);
     
 }
+}
 
 
 nav {
-  display:block;
   background-color:#ffc0ad;
 }
 
@@ -62,8 +62,9 @@ nav {
     color: #4d4e53;
     text-decoration: none;
     border-bottom: 1px solid #271c19;
-    margin-bottom: 5px;    
+       
 }
+
 
 
 #main-doc {
@@ -72,6 +73,7 @@ nav {
     padding: 20px;
     margin-bottom: 110px;
 }
+
 
 
 
