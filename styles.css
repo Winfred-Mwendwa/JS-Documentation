@@ -37,7 +37,7 @@ code {
     border-radius: 5px;  
 }
 
-@media only screen and (max-width: 815px) {
+
 #navbar {
     position: fixed;
     min-width: 290px;
@@ -49,7 +49,7 @@ code {
     border-color: rgba(0, 22, 22, 0.4);
     
 }
-}
+
 
 
 nav {
