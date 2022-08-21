@@ -56,7 +56,7 @@ nav {
   background-color:#ffc0ad;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 200px){
   #navbar, #main-doc {
     width:100%;
   }
